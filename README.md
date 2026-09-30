@@ -21,9 +21,9 @@ O arquivo data-analysis.py foi utilizado para uma analise inicial dos dados. O m
     
 Os arquivos devem der executados pelo terminal, no diretório principal do projeto:
     
-    `python scripts/data-analysis.py` (para execução da análise de dados)
+  `python scripts/data-analysis.py` (para execução da análise de dados)
     
-    `python scripts/predict-model.py` (para execução do modelo de predição)
+  `python scripts/predict-model.py` (para execução do modelo de predição)
 
 
 # Análise dos dados:
